@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AYIKxD
 - 👀 I’m interested in ... Android
 - 🌱 I’m currently learning ... ROM dev
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... "t.me/AYIKxD"
 
 <!---
